@@ -13,8 +13,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![OOP](https://img.shields.io/badge/OOP-Expert-4B8BBE?logo=python)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-Advanced-FF6B6B)
+![OOP](https://img.shields.io/badge/OOP-4B8BBE?logo=python)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-FF6B6B)
 
 ## ⚡ Soft Skills
 - **Leadership** 
