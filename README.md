@@ -19,7 +19,7 @@
 ## 🤖 ML Developer Life
 
 <p align="center">
-  <img src="[https://i.redd.it/6y5v2k4z8p061.png](https://preview.redd.it/its-okay-i-got-my-cat-to-do-it-since-she-got-9-lives-v0-slzrsvdpitsa1.jpg?width=320&crop=smart&auto=webp&s=5412ef473e5e23ef45be2b275e9c7e064750541b)" width="500" alt="ML мем">
+  <img src="[https://i.redd.it/6y5v2k4z8p061.png](https://preview.redd.it/its-okay-i-got-my-cat-to-do-it-since-she-got-9-lives-v0-slzrsvdpitsa1.jpg" width="500" alt="ML мем">
   <br>
   <strong>"99% accuracy" vs. Реальность</strong>
 </p>
