@@ -16,10 +16,10 @@
 ![OOP](https://img.shields.io/badge/OOP-4B8BBE?logo=python)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-FF6B6B)
 
-## ⚡ Soft Skills
-- **Leadership** 
-- **Responsibility** 
-- **Reliability** 
-- **Engagement** 
-- **Communication**
-- **Adaptability** 
+## 🌟 Core Strengths
+**Leadership** – Initiative, vision, team guidance  
+**Responsibility** – Ownership, accountability, commitment  
+**Reliability** – Dependability, consistency, trust  
+**Engagement** – Passion, curiosity, deep focus  
+**Communication** – Clarity, articulation, listening  
+**Adaptability** – Flexibility, resilience, growth mindset  
