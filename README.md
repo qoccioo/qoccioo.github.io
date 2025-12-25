@@ -16,12 +16,10 @@
 ![OOP](https://img.shields.io/badge/OOP-4B8BBE?logo=python)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-FF6B6B)
 
-## 🤖 ML Developer Life
-
 <p align="center">
-  <img src="https://i.redd.it/slzrsvdpitsa1.jpg" width="500" alt="ML мем">
+  <img src="https://i.redd.it/slzrsvdpitsa1.jpg" width="200" alt="ML мем">
   <br>
-  <strong>"99% accuracy" vs. Реальность</strong>
+  <strong>"my life..</strong>
 </p>
 
 ## 🌟 Core Strengths
