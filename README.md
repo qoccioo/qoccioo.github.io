@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://i.redd.it/slzrsvdpitsa1.jpg" width="200" alt="ML мем">
   <br>
-  <strong>"my life..</strong>
+  <strong>my life...</strong>
 </p>
 
 ## 🌟 Core Strengths
