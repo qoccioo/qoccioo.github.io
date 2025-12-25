@@ -16,7 +16,7 @@
 ![OOP](https://img.shields.io/badge/OOP-4B8BBE?logo=python)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-FF6B6B)
 
-<p align="center">
+<p>
   <img src="https://i.redd.it/slzrsvdpitsa1.jpg" width="200" alt="ML мем">
   <br>
   <strong>my life...</strong>
