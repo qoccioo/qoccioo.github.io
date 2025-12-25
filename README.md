@@ -16,6 +16,14 @@
 ![OOP](https://img.shields.io/badge/OOP-4B8BBE?logo=python)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-FF6B6B)
 
+## 🤖 ML Developer Life
+
+<p align="center">
+  <img src="https://i.redd.it/6y5v2k4z8p061.png" width="500" alt="ML мем">
+  <br>
+  <strong>"99% accuracy" vs. Реальность</strong>
+</p>
+
 ## 🌟 Core Strengths
 **Leadership** – Initiative, vision, team guidance  
 **Responsibility** – Ownership, accountability, commitment  
